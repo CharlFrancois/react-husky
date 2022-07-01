@@ -22,7 +22,6 @@ module.exports = {
     {
       message: "T'as oublié de terminer une tâche!",
       regex: /TODO/,
-      nonBlocking: true,
     },
     {
       filter: /\.js$/,
